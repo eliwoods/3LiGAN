@@ -1,0 +1,8 @@
+raw-videos/
+.idea/
+.DS_Store
+
+venv/
+virtualenv/
+
+*.pyc
